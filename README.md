@@ -28,7 +28,7 @@ Like My Work?
 - 🛠  &nbsp; I’m currently working with .Net Core, Angular, AWS, etc.
 - 🚀 &nbsp; I’m currently learning AWS infrastructure and development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vitor-dias).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/vitor-dias/vitor-dias/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/vitor-dias/vitor-dias/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: vitor_dias@msn.com.
 
 ### My Absolute Favorites:
