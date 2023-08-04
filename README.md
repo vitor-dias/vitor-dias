@@ -30,7 +30,6 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vitor-dias).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/vitor-dias/vitor-dias/issues/2)! I am happy to help.
 - 📫 &nbsp; How to reach me: vitor_dias@msn.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
